@@ -10,19 +10,21 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-// Proxy route
+// eslint-disable-next-line no-undef
+const DATAFORSEO_AUTH = process.env.DATAFORSEO_AUTH;
+
+// Route for DataForSEO proxy
 app.post('/proxy/dataforseo', async (req, res) => {
-  const { keyword, location_code, language_name, target } = req.body;
+  const { keyword, location_name, language_name } = req.body;
 
   const payload = [
     {
       keyword,
-      location_code,
+      location_name,
       language_name,
       device: 'desktop',
       os: 'windows',
       depth: 100,
-      target,
     },
   ];
 
@@ -34,7 +36,7 @@ app.post('/proxy/dataforseo', async (req, res) => {
       payload,
       {
         headers: {
-          Authorization: `Basic ${process.env.DATAFORSEO_AUTH}`,
+          Authorization: `Basic ${DATAFORSEO_AUTH}`,
           'Content-Type': 'application/json',
         },
       }

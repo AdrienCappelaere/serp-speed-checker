@@ -1,0 +1,508 @@
+{
+    "locations": {
+        "Algeria": [
+            "French",
+            "Arabic"
+        ],
+        "Angola": [
+            "Portuguese"
+        ],
+        "Azerbaijan": [
+            "Azeri"
+        ],
+        "Argentina": [
+            "Spanish"
+        ],
+        "Australia": [
+            "English"
+        ],
+        "Austria": [
+            "German"
+        ],
+        "Bahrain": [
+            "Arabic"
+        ],
+        "Bangladesh": [
+            "Bengali"
+        ],
+        "Armenia": [
+            "Armenian"
+        ],
+        "Belgium": [
+            "French",
+            "Dutch",
+            "German"
+        ],
+        "Bolivia": [
+            "Spanish"
+        ],
+        "Bosnia and Herzegovina": [
+            "Bosnian"
+        ],
+        "Brazil": [
+            "Portuguese"
+        ],
+        "Bulgaria": [
+            "Bulgarian"
+        ],
+        "Myanmar (Burma)": [
+            "English"
+        ],
+        "Cambodia": [
+            "English"
+        ],
+        "Cameroon": [
+            "French"
+        ],
+        "Canada": [
+            "English",
+            "French"
+        ],
+        "Sri Lanka": [
+            "English"
+        ],
+        "Chile": [
+            "Spanish"
+        ],
+        "Taiwan": [
+            "Chinese (Traditional)"
+        ],
+        "Colombia": [
+            "Spanish"
+        ],
+        "Costa Rica": [
+            "Spanish"
+        ],
+        "Croatia": [
+            "Croatian"
+        ],
+        "Cyprus": [
+            "Greek",
+            "English"
+        ],
+        "Czechia": [
+            "Czech"
+        ],
+        "Denmark": [
+            "Danish"
+        ],
+        "Ecuador": [
+            "Spanish"
+        ],
+        "El Salvador": [
+            "Spanish"
+        ],
+        "Estonia": [
+            "Estonian"
+        ],
+        "Finland": [
+            "Finnish"
+        ],
+        "France": [
+            "French"
+        ],
+        "Germany": [
+            "German"
+        ],
+        "Ghana": [
+            "English"
+        ],
+        "Greece": [
+            "Greek",
+            "English"
+        ],
+        "Guatemala": [
+            "Spanish"
+        ],
+        "Hong Kong": [
+            "English",
+            "Chinese (Traditional)"
+        ],
+        "Hungary": [
+            "Hungarian"
+        ],
+        "India": [
+            "English",
+            "Hindi"
+        ],
+        "Indonesia": [
+            "English",
+            "Indonesian"
+        ],
+        "Ireland": [
+            "English"
+        ],
+        "Israel": [
+            "Hebrew",
+            "Arabic"
+        ],
+        "Italy": [
+            "Italian"
+        ],
+        "Cote d'Ivoire": [
+            "French"
+        ],
+        "Japan": [
+            "Japanese"
+        ],
+        "Kazakhstan": [
+            "Russian"
+        ],
+        "Jordan": [
+            "Arabic"
+        ],
+        "Kenya": [
+            "English"
+        ],
+        "South Korea": [
+            "Korean"
+        ],
+        "Latvia": [
+            "Latvian"
+        ],
+        "Lithuania": [
+            "Lithuanian"
+        ],
+        "Malaysia": [
+            "English",
+            "Malay"
+        ],
+        "Malta": [
+            "English"
+        ],
+        "Mexico": [
+            "Spanish"
+        ],
+        "Moldova": [
+            "Romanian"
+        ],
+        "Morocco": [
+            "Arabic",
+            "French"
+        ],
+        "Netherlands": [
+            "Dutch"
+        ],
+        "New Zealand": [
+            "English"
+        ],
+        "Nicaragua": [
+            "Spanish"
+        ],
+        "Nigeria": [
+            "English"
+        ],
+        "Norway": [
+            "Norwegian (Bokm\u00e5l)"
+        ],
+        "Pakistan": [
+            "English",
+            "Urdu"
+        ],
+        "Panama": [
+            "Spanish"
+        ],
+        "Paraguay": [
+            "Spanish"
+        ],
+        "Peru": [
+            "Spanish"
+        ],
+        "Philippines": [
+            "English",
+            "Tagalog"
+        ],
+        "Poland": [
+            "Polish"
+        ],
+        "Portugal": [
+            "Portuguese"
+        ],
+        "Romania": [
+            "Romanian"
+        ],
+        "Saudi Arabia": [
+            "Arabic"
+        ],
+        "Senegal": [
+            "French"
+        ],
+        "Serbia": [
+            "Serbian"
+        ],
+        "Singapore": [
+            "English",
+            "Chinese (Simplified)"
+        ],
+        "Slovakia": [
+            "Slovak"
+        ],
+        "Vietnam": [
+            "English",
+            "Vietnamese"
+        ],
+        "Slovenia": [
+            "Slovenian"
+        ],
+        "South Africa": [
+            "English"
+        ],
+        "Spain": [
+            "Spanish"
+        ],
+        "Sweden": [
+            "Swedish"
+        ],
+        "Switzerland": [
+            "German",
+            "French",
+            "Italian"
+        ],
+        "Thailand": [
+            "Thai"
+        ],
+        "United Arab Emirates": [
+            "Arabic",
+            "English"
+        ],
+        "Tunisia": [
+            "Arabic"
+        ],
+        "Turkiye": [
+            "Turkish"
+        ],
+        "Ukraine": [
+            "Ukrainian",
+            "Russian"
+        ],
+        "North Macedonia": [
+            "Macedonian"
+        ],
+        "Egypt": [
+            "Arabic",
+            "English"
+        ],
+        "United Kingdom": [
+            "English"
+        ],
+        "United States": [
+            "English",
+            "Spanish"
+        ],
+        "Burkina Faso": [
+            "French"
+        ],
+        "Uruguay": [
+            "Spanish"
+        ],
+        "Venezuela": [
+            "Spanish"
+        ]
+    },
+    "languages": {
+        "French": [
+            "Algeria",
+            "Belgium",
+            "Cameroon",
+            "Canada",
+            "France",
+            "Cote d'Ivoire",
+            "Morocco",
+            "Senegal",
+            "Switzerland",
+            "Burkina Faso"
+        ],
+        "Arabic": [
+            "Algeria",
+            "Bahrain",
+            "Israel",
+            "Jordan",
+            "Morocco",
+            "Saudi Arabia",
+            "United Arab Emirates",
+            "Tunisia",
+            "Egypt"
+        ],
+        "Portuguese": [
+            "Angola",
+            "Brazil",
+            "Portugal"
+        ],
+        "Azeri": [
+            "Azerbaijan"
+        ],
+        "Spanish": [
+            "Argentina",
+            "Bolivia",
+            "Chile",
+            "Colombia",
+            "Costa Rica",
+            "Ecuador",
+            "El Salvador",
+            "Guatemala",
+            "Mexico",
+            "Nicaragua",
+            "Panama",
+            "Paraguay",
+            "Peru",
+            "Spain",
+            "United States",
+            "Uruguay",
+            "Venezuela"
+        ],
+        "English": [
+            "Australia",
+            "Myanmar (Burma)",
+            "Cambodia",
+            "Canada",
+            "Sri Lanka",
+            "Cyprus",
+            "Ghana",
+            "Greece",
+            "Hong Kong",
+            "India",
+            "Indonesia",
+            "Ireland",
+            "Kenya",
+            "Malaysia",
+            "Malta",
+            "New Zealand",
+            "Nigeria",
+            "Pakistan",
+            "Philippines",
+            "Singapore",
+            "Vietnam",
+            "South Africa",
+            "United Arab Emirates",
+            "Egypt",
+            "United Kingdom",
+            "United States"
+        ],
+        "German": [
+            "Austria",
+            "Belgium",
+            "Germany",
+            "Switzerland"
+        ],
+        "Bengali": [
+            "Bangladesh"
+        ],
+        "Armenian": [
+            "Armenia"
+        ],
+        "Dutch": [
+            "Belgium",
+            "Netherlands"
+        ],
+        "Bosnian": [
+            "Bosnia and Herzegovina"
+        ],
+        "Bulgarian": [
+            "Bulgaria"
+        ],
+        "Chinese (Traditional)": [
+            "Taiwan",
+            "Hong Kong"
+        ],
+        "Croatian": [
+            "Croatia"
+        ],
+        "Greek": [
+            "Cyprus",
+            "Greece"
+        ],
+        "Czech": [
+            "Czechia"
+        ],
+        "Danish": [
+            "Denmark"
+        ],
+        "Estonian": [
+            "Estonia"
+        ],
+        "Finnish": [
+            "Finland"
+        ],
+        "Hungarian": [
+            "Hungary"
+        ],
+        "Hindi": [
+            "India"
+        ],
+        "Indonesian": [
+            "Indonesia"
+        ],
+        "Hebrew": [
+            "Israel"
+        ],
+        "Italian": [
+            "Italy",
+            "Switzerland"
+        ],
+        "Japanese": [
+            "Japan"
+        ],
+        "Russian": [
+            "Kazakhstan",
+            "Ukraine"
+        ],
+        "Korean": [
+            "South Korea"
+        ],
+        "Latvian": [
+            "Latvia"
+        ],
+        "Lithuanian": [
+            "Lithuania"
+        ],
+        "Malay": [
+            "Malaysia"
+        ],
+        "Romanian": [
+            "Moldova",
+            "Romania"
+        ],
+        "Norwegian (Bokm\u00e5l)": [
+            "Norway"
+        ],
+        "Urdu": [
+            "Pakistan"
+        ],
+        "Tagalog": [
+            "Philippines"
+        ],
+        "Polish": [
+            "Poland"
+        ],
+        "Serbian": [
+            "Serbia"
+        ],
+        "Chinese (Simplified)": [
+            "Singapore"
+        ],
+        "Slovak": [
+            "Slovakia"
+        ],
+        "Vietnamese": [
+            "Vietnam"
+        ],
+        "Slovenian": [
+            "Slovenia"
+        ],
+        "Swedish": [
+            "Sweden"
+        ],
+        "Thai": [
+            "Thailand"
+        ],
+        "Turkish": [
+            "Turkiye"
+        ],
+        "Ukrainian": [
+            "Ukraine"
+        ],
+        "Macedonian": [
+            "North Macedonia"
+        ]
+    }
+}
