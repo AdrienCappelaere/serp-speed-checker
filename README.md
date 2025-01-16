@@ -1,8 +1,12 @@
-# React + Vite
+# SERP Speed Checker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+SERP Speed Checker is a web application designed to analyze the speed performance of Search Engine Results Pages (SERPs) using Google Lighthouse. This tool provides developers and SEO professionals with actionable insights to optimize website performance and enhance user experience.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- **Google Lighthouse Integration**: Perform in-depth performance audits for URLs.
+- **Batch Testing**: Analyze multiple URLs in one session.
+- **Customizable Settings**: Select specific testing parameters and environments.
+- **Interactive UI**: Simple and intuitive interface built with React and Tailwind CSS.
+- **Backend API**: Node.js backend for managing requests and integrations.
+- **Data Visualization**: Display results in a tabular format with detailed metrics.
